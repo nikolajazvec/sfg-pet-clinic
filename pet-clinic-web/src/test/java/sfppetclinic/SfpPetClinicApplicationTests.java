@@ -1,4 +1,4 @@
-package amateur.springframework.sfppetclinic;
+package sfppetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
